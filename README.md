@@ -1,2 +1,2 @@
 # BREAKOUT
-Breakout game in Assembly. 8088
+Breakout game in Assembly. Written in 8088.
